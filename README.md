@@ -1,3 +1,3 @@
 # Pong
 
-## Simple pong game made with ReactJS
+Simple pong game made with ReactJS
